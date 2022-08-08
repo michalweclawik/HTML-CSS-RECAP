@@ -16,7 +16,7 @@
 
 h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 45px;
+  font-size: 50px;
   color: red;
   text-align: center;
   padding: 40px;
@@ -28,7 +28,6 @@ main {
   color: black;
   background-color: wheat;
   padding: 100px;
-  text-align: ;
 }
 
 section {
@@ -39,6 +38,7 @@ section {
   padding: 10px;
   color: grey;
   list-style-type: square;
+  font-size: 30px;
 }
 
 footer {
