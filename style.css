@@ -11,6 +11,7 @@
   height: 80px;
   padding: 40px;
   color: rgb(94, 92, 82);
+  background-color: whitesmoke;
 }
 
 h1 {
@@ -20,11 +21,18 @@ h1 {
   text-align: center;
   padding: 40px;
   font-weight: bold;
+  border: 5px solid gray;
+  border-radius: 5px;
 }
 main {
   color: black;
   background-color: wheat;
   padding: 100px;
+  text-align: ;
+}
+
+section {
+  margin-top: 30px;
 }
 
 #listToDo {
@@ -35,7 +43,7 @@ main {
 
 footer {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 #adress {
